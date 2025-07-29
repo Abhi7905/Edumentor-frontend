@@ -98,22 +98,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring-JWT&color=222222&logo=Spring&logoColor=FFFFFF&label=)
 ![Hibernate](https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
 
-## Database 🥅
-
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-
-## Development 🔭
-
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Open+JDK+14&color=007396&label=)
-
-## Development Tools 📺
-
-![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
-![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Tool+Suit&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
 
-# UI overview ❤️ 
 
 ## Landing Page
 
@@ -314,68 +300,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![image](https://user-images.githubusercontent.com/43011442/130584886-eaa53164-bcdc-49b6-a1e2-379f0529dddc.png)
 ![image](https://user-images.githubusercontent.com/43011442/130584927-e4dc34a9-10ec-4100-9ee3-b67616b29eb1.png)
-
-## Course Enrollment Greetings
-
-![image](https://user-images.githubusercontent.com/43011442/130585271-d035e086-07ee-4831-ac29-a8319676ff9a.png)
-![image](https://user-images.githubusercontent.com/43011442/130585312-81247431-d031-4d73-b5e0-0bff7e801c2a.png)
-
-## Website Course Overview
-
-![image](https://user-images.githubusercontent.com/43011442/130585049-eff4c2cf-9192-4b67-89f6-60be06ea69df.png)
-![image](https://user-images.githubusercontent.com/43011442/130585087-40b139aa-330a-484d-a681-e63202dfd7c3.png)
-
-## Full Course Content
-
-## (Course With Chapters) 
-
-![image](https://user-images.githubusercontent.com/43011442/130751977-0b115965-7caa-48a6-b8de-b9083b4e7efe.png)
-![image](https://user-images.githubusercontent.com/43011442/130752222-d682f379-00a1-4a6d-8289-35c21f1e8795.png)
-![image](https://user-images.githubusercontent.com/43011442/130588021-4d2203cf-32a0-47f0-8245-1f8abaa2cd09.png)
-![image](https://user-images.githubusercontent.com/43011442/130586142-728e909b-6e83-40e6-81f1-938ebcd04dea.png)
-![image](https://user-images.githubusercontent.com/43011442/130586171-4d89ee22-73a9-4641-ae6e-608f87cdbc54.png)
-![image](https://user-images.githubusercontent.com/43011442/130586204-87403ae0-c5ce-4575-b315-b990d0f2be6d.png)
-![image](https://user-images.githubusercontent.com/43011442/130586234-392e0e2a-f8b3-4cfb-a2b7-90e3c6ac1191.png)
-![image](https://user-images.githubusercontent.com/43011442/130588070-41fb5ba1-4b9f-4677-a074-6129b6102e69.png)
-
-## (Course without Chapters)
-
-![image](https://user-images.githubusercontent.com/43011442/130585480-3bccfd7d-cb8a-48b9-bb05-8aaeebf87c25.png)
-![image](https://user-images.githubusercontent.com/43011442/130585531-a2fd5451-52b5-4ac7-a589-f10b0aa61551.png)
-![image](https://user-images.githubusercontent.com/43011442/130588144-1be376d9-14b6-478d-b83a-4662a005e75d.png)
-![image](https://user-images.githubusercontent.com/43011442/130585660-0551ada3-1fa1-4b09-94a1-c779de62cbda.png)
-![image](https://user-images.githubusercontent.com/43011442/130585710-021243bd-d345-4528-b859-8f8c1e303dec.png)
-![image](https://user-images.githubusercontent.com/43011442/130585749-c7fc2af4-d0d8-43d2-9671-d6619fb6b5c1.png)
-![image](https://user-images.githubusercontent.com/43011442/130585793-430118b8-f61a-4f80-a714-54ebb63fb6c6.png)
-![image](https://user-images.githubusercontent.com/43011442/130588080-1baf5897-1aba-4d17-8e67-1a1be464ba84.png)
-
-## User - My Learnings
-
-![image](https://user-images.githubusercontent.com/43011442/130586960-c20b1125-e123-4f59-84aa-6b12025e9fed.png)
-![image](https://user-images.githubusercontent.com/43011442/130586997-e0ef33f3-f544-4ba0-9fa2-87951dfa5087.png)
-![image](https://user-images.githubusercontent.com/43011442/130587028-bba31fc4-c50f-4d6b-8f34-c0859216c939.png)
-
-## User - My Wishlist
-
-![image](https://user-images.githubusercontent.com/43011442/130587255-92aab9d6-0810-40f0-95b2-e42d3bbe1086.png)
-![image](https://user-images.githubusercontent.com/43011442/130587296-28bbc01e-7de5-46ec-b790-80656f1420e5.png)
-
-## Course List
-
-![image](https://user-images.githubusercontent.com/43011442/130584644-fa512e48-18dc-4782-bcf7-fef46d73e9b9.png)
-![image](https://user-images.githubusercontent.com/43011442/130584734-bc8ef1ba-790f-4eba-8b07-50221dc46d48.png)
-![image](https://user-images.githubusercontent.com/43011442/130584775-c4720ddb-bbe5-4de7-9574-be42d26e4587.png)
-![image](https://user-images.githubusercontent.com/43011442/130584802-1755e898-2d28-4fa6-a936-82dfd3a2c3eb.png)
-
-## Professor List
-
-![image](https://user-images.githubusercontent.com/43011442/130586374-4f022e44-cd78-43e6-ae10-ceb8c952e9da.png)
-![image](https://user-images.githubusercontent.com/43011442/130586418-d5d8dec0-bb2f-4197-a246-960df5c0c019.png)
-![image](https://user-images.githubusercontent.com/43011442/130586444-38deea7e-b407-493c-93ad-836955111153.png)
-
-## User List
-
-![image](https://user-images.githubusercontent.com/43011442/130586512-7f4eee5c-d41f-4cb5-ad2d-9353913545a9.png)
-![image](https://user-images.githubusercontent.com/43011442/130586601-8367c52c-d720-4ce6-9434-722d44d55891.png)
-
-
