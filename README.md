@@ -157,9 +157,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![image](https://user-images.githubusercontent.com/43011442/130578913-281109fd-3902-4e34-b156-5f4b03d431b7.png)
 ![image](https://user-images.githubusercontent.com/43011442/130578995-93a99189-32e0-4448-bf27-62e54fcaf417.png)
-![image](https://user-images.githubusercontent.com/43011442/130579073-8b17e57b-a769-4571-b650-8c1ae5326d61.png)
-![image](https://user-images.githubusercontent.com/43011442/130579143-13ce4df9-47b8-4bf4-bd4c-6ffe3773cfd7.png)
-![image](https://user-images.githubusercontent.com/43011442/130579207-a80f7534-ef73-4953-8bec-a05dc484b0bd.png)
 
 ## Youtube Course OverView
 
@@ -175,49 +172,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![image](https://user-images.githubusercontent.com/43011442/130579684-1b903d08-2739-47d9-b294-7f2fea61ee43.png)
 ![image](https://user-images.githubusercontent.com/43011442/130579731-35d755d8-fca5-4787-98de-05f6609eb3ee.png)
 
-## Total Wishlist Courses
-
-![image](https://user-images.githubusercontent.com/43011442/130579906-936b65ca-c901-4a67-871f-b35e6070746e.png)
-![image](https://user-images.githubusercontent.com/43011442/130579968-0d344a87-f85c-4c53-8ae0-4afdcc7b3c9b.png)
-
-## Total Professors List
-
-![image](https://user-images.githubusercontent.com/43011442/130580110-d4973385-da69-43ec-85d4-fa54a4450bef.png)
-![image](https://user-images.githubusercontent.com/43011442/130580185-a5cc3e2a-557f-4afb-b4f2-130527b1c3f0.png)
-![image](https://user-images.githubusercontent.com/43011442/130580229-200fc76f-7d1d-4608-aef8-360837e0a74d.png)
-
-## Total Users List
-
-![image](https://user-images.githubusercontent.com/43011442/130580482-3bbdd606-e9dc-4360-ae02-452d97e5e4b4.png)
-
-# PROFESSOR MODE ❤️
-
-## Professor Dashboard
-
-![image](https://user-images.githubusercontent.com/43011442/130580880-e6297597-2cf1-40c4-9e96-c3a3fd57fd8e.png)
-![image](https://user-images.githubusercontent.com/43011442/130580960-f46190c9-9540-4989-99f6-afeed6f0fa39.png)
-
-![image](https://user-images.githubusercontent.com/43011442/130581027-59851487-6e72-4030-8917-382c777dee5f.png)
-![image](https://user-images.githubusercontent.com/43011442/130581082-38d8f002-3308-4d5e-adda-2f83166a111d.png)
-
-## Edit Professor Profile
-
-![image](https://user-images.githubusercontent.com/43011442/130581192-d4c593d1-0f3d-4e66-9ce1-fe3d1ffc3a5c.png)
-![image](https://user-images.githubusercontent.com/43011442/130581247-01a94d8a-8227-439c-93e6-e2814acf95e5.png)
-
-![image](https://user-images.githubusercontent.com/43011442/130581310-38613af9-10cf-43d0-98de-39ca90beb161.png)
-![image](https://user-images.githubusercontent.com/43011442/130581368-d52ae876-199d-47c0-90ff-7824a2bd7894.png)
-
-## Approval Status
-
-![image](https://user-images.githubusercontent.com/43011442/130581461-0032e45e-c659-41f5-b9cb-872a810805d2.png)
-
-## Add New Course
-
-![image](https://user-images.githubusercontent.com/43011442/130581596-fb327ab1-2bfa-45a3-88e7-0742198347b0.png)
-![image](https://user-images.githubusercontent.com/43011442/130581702-6da8eaee-3f2b-44b4-bf65-cf7a866931f6.png)
-
-## Add New Chapters
-
-![image](https://user-images.githubusercontent.com/43011442/130581824-2887c851-a72e-4da4-990c-0ed242de383a.png)
 
