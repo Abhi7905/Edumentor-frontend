@@ -38,11 +38,7 @@ This mode makes you as a user and you can perform various activities like...
 - check the available specific learning contents and wishlist
 - View & Edit user profile details
 - Enroll to new courses
-- check your enroll courses and favourite courses
-- Get various details on the user dashboard as Total Learners, Total Courses, Most Liked Courses & Total Chapters added to the courses.
-
-**[Additional Feature: The user can enroll to learn youtube tutorial courses as an embedded video course in the portal itself]**
-
+-
 
 # About Project Development 🥅
 
@@ -293,10 +289,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![image](https://user-images.githubusercontent.com/43011442/130584644-fa512e48-18dc-4782-bcf7-fef46d73e9b9.png)
 ![image](https://user-images.githubusercontent.com/43011442/130584734-bc8ef1ba-790f-4eba-8b07-50221dc46d48.png)
-![image](https://user-images.githubusercontent.com/43011442/130584775-c4720ddb-bbe5-4de7-9574-be42d26e4587.png)
-![image](https://user-images.githubusercontent.com/43011442/130584802-1755e898-2d28-4fa6-a936-82dfd3a2c3eb.png)
 
-## Youtube Course Overview
-
-![image](https://user-images.githubusercontent.com/43011442/130584886-eaa53164-bcdc-49b6-a1e2-379f0529dddc.png)
-![image](https://user-images.githubusercontent.com/43011442/130584927-e4dc34a9-10ec-4100-9ee3-b67616b29eb1.png)
