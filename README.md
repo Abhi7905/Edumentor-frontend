@@ -147,29 +147,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![image](https://user-images.githubusercontent.com/43011442/130578244-7d7644ac-f83c-4b32-96db-cd81e2ed482d.png)
 ![image](https://user-images.githubusercontent.com/43011442/130578364-a8eb131b-77bf-4112-a9c9-ba3ed18bcc75.png)
 ![image](https://user-images.githubusercontent.com/43011442/130578426-84fca402-9993-4fb3-80b3-7b090918bc45.png)
-
-## Approve Professors
-
-![image](https://user-images.githubusercontent.com/43011442/130578746-538f442f-3de6-4d00-9c0f-a44fc092c623.png)
-![image](https://user-images.githubusercontent.com/43011442/130578792-572ed08f-69cc-4f92-b2bc-9f28e922d97f.png)
-
-## Course List
-
-![image](https://user-images.githubusercontent.com/43011442/130578913-281109fd-3902-4e34-b156-5f4b03d431b7.png)
-![image](https://user-images.githubusercontent.com/43011442/130578995-93a99189-32e0-4448-bf27-62e54fcaf417.png)
-
-## Youtube Course OverView
-
-![image](https://user-images.githubusercontent.com/43011442/130579348-a3ced06d-0910-4c43-92c2-740d3a5fb2b2.png)
-![image](https://user-images.githubusercontent.com/43011442/130579408-7e7492ed-5254-4aa6-b0c3-1b31c25452e0.png)
-
-## Error when accessed before enrollment
-
-![image](https://user-images.githubusercontent.com/43011442/130579549-e8b83ec0-dd10-4570-b23a-34c4f5e398a4.png)
-
-## Website Course OverView
-
-![image](https://user-images.githubusercontent.com/43011442/130579684-1b903d08-2739-47d9-b294-7f2fea61ee43.png)
-![image](https://user-images.githubusercontent.com/43011442/130579731-35d755d8-fca5-4787-98de-05f6609eb3ee.png)
-
-
