@@ -189,9 +189,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Total Users List
 
 ![image](https://user-images.githubusercontent.com/43011442/130580482-3bbdd606-e9dc-4360-ae02-452d97e5e4b4.png)
-![image](https://user-images.githubusercontent.com/43011442/130580533-c302ab4d-1a25-4b4a-ac4a-d5b2a10c28c0.png)
-
-<br>
 
 # PROFESSOR MODE ❤️
 
@@ -223,8 +220,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Add New Chapters
 
 ![image](https://user-images.githubusercontent.com/43011442/130581824-2887c851-a72e-4da4-990c-0ed242de383a.png)
-![image](https://user-images.githubusercontent.com/43011442/130581891-170d2b8b-f35e-43ec-95f9-36d07d41f0d9.png)
-![image](https://user-images.githubusercontent.com/43011442/130581943-a511ea1d-49a9-4020-b2a7-c9f67e168de4.png)
 
 ## Professor Current Learning
 
@@ -241,8 +236,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![image](https://user-images.githubusercontent.com/43011442/130582765-d4378ef2-d66b-4853-a791-5dd1c391a688.png)
 ![image](https://user-images.githubusercontent.com/43011442/130582836-d4b42ba7-e0df-4f51-8b35-9435fde6c79d.png)
-![image](https://user-images.githubusercontent.com/43011442/130582909-9ddbcfbb-c018-4d29-b613-ac80c4ebc8b8.png)
-![image](https://user-images.githubusercontent.com/43011442/130582958-a1f2c2b2-5e43-4f28-a076-ecd9b3eefad1.png)
 
 ## Youtube Course Overview
 
@@ -257,13 +250,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Professor List
 
 ![image](https://user-images.githubusercontent.com/43011442/130583536-060cdb7b-828e-4d0e-bcc5-c1d0b16f60a8.png)
-![image](https://user-images.githubusercontent.com/43011442/130583635-a1a10202-f8ce-4ee4-b48c-26185133dbb5.png)
-![image](https://user-images.githubusercontent.com/43011442/130583673-040e1a45-2284-471b-9e2d-d0c75574b53f.png)
 
 ## User List
 
 ![image](https://user-images.githubusercontent.com/43011442/130583784-af41d038-5166-4d11-afa2-a17f2811b9a3.png)
-![image](https://user-images.githubusercontent.com/43011442/130583812-a3b223f6-18c2-481a-8c7d-9b0260ae9d29.png)
 
 <br>
 
@@ -276,17 +266,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ![image](https://user-images.githubusercontent.com/43011442/130584186-8143efd8-fe23-4997-8dce-cf9a0c1ccc28.png)
 ![image](https://user-images.githubusercontent.com/43011442/130584245-19f4032e-f008-4b1d-bf04-282134a347cf.png)
-
-## Edit User Profile
-
-![image](https://user-images.githubusercontent.com/43011442/130584316-8fefd5af-8a5b-45e7-9172-e49258389d66.png)
-![image](https://user-images.githubusercontent.com/43011442/130584342-5b79fe3c-7e47-465d-a23a-3ca1a2ae5ed5.png)
-
-![image](https://user-images.githubusercontent.com/43011442/130584391-49962fbd-d9a9-4d70-a333-cf96bc478019.png)
-![image](https://user-images.githubusercontent.com/43011442/130584424-813bae74-41c9-4f93-b546-ee357c83fe51.png)
-
-## Start Learning
-
-![image](https://user-images.githubusercontent.com/43011442/130584644-fa512e48-18dc-4782-bcf7-fef46d73e9b9.png)
-![image](https://user-images.githubusercontent.com/43011442/130584734-bc8ef1ba-790f-4eba-8b07-50221dc46d48.png)
 
